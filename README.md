@@ -1,4 +1,4 @@
-# Awesome Japanese [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Japanese Web Version
 
 > A curated list of Japanese language learning resources.
 
@@ -40,7 +40,7 @@ Update: mobile alpha version is now available, [mobile.md](./mobile.md), I'd lik
 
 ## Beginner Guide
 
-\***\*New to Japanese?\*\*** Start here!
+> \***\*New to Japanese?\*\*** Start here!
 
 1. All beginners should start with one of the guides below (the top two are the best in my personal opinion).
 
@@ -127,6 +127,7 @@ _Alphabet of Japanese language._
 - App
   - [Hiragana and Katakana](https://itunes.apple.com/us/app/hiragana-and-katakana-complete-basics-of-japanese/id385817288?mt=8) - iOS Hiragana and Katakana learning app:iphone:
   - [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) - Android hiragana, katakana and kanji learning app:iphone:
+  - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji) - Android application for practicing writing Japanese characters:iphone:
 - Anki Deck
   - [Hiragana + Katakana w/ Audio & Stroke Order](https://ankiweb.net/shared/info/1632090287) - :card_index:
 
